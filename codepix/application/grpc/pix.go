@@ -2,7 +2,6 @@ package grpc
 
 import (
 	"context"
-
 	"github.com/lucasrocha1999/imersao-fullstack-fullcycle/codepix-go/application/grpc/pb"
 	"github.com/lucasrocha1999/imersao-fullstack-fullcycle/codepix-go/application/usecase"
 )
